@@ -51,7 +51,7 @@ let introTale = prompt.question(
 )
 
 let gameTale = prompt.question(
-    'We have four suspects. \n Press enter to continue. \n'
+    'We have four suspects. \n Press enter to see who the suspects are. \n'
   );
 
 
