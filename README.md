@@ -15,3 +15,5 @@ yarn
 ```
 node index.js
 ```
+
+Enjoy!
