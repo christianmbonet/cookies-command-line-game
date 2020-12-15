@@ -4,9 +4,8 @@
 
 Who stole the cookies from the cookie jar?
 
-## Install Yarn
+## To Play Game
 
 ```
-yarn install
-yarn start
+node index.js
 ```
