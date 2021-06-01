@@ -95,39 +95,8 @@ let maxNumberOfTries = 4
                     }
             } else if (readyGuess === 'n') {
                 return;
-            //     let userInfo = prompt.question('Who would you like more information on?\n')
-            //             if(userInfo === 'Felix') {
-            //                 console.log(userInfo)
-            //                 console.log(peopleData.filter(item => item.name === userInfo))
-            //             } else if(userInfo === 'Mickey') {
-            //                 console.log(userInfo)
-            //                 console.log(peopleData.filter(item => item.name === userInfo))
-            //             } else if(userInfo === 'Woody') {
-            //                 console.log(userInfo)
-            //                 console.log(peopleData.filter(item => item.name === userInfo))
-            //             } else if(userInfo === 'Betty') {
-            //                 console.log(userInfo)
-            //                 console.log(peopleData.filter(item => item.name === userInfo))
-            // }
             }
             }
-        
-// let userInfo = prompt.question('Who would you like more information on? ')
-// for (i=0; i < 5; i++) {
-//     if(userInfo === 'Felix') {
-//     console.log(userInfo)
-//     console.log(peopleData.filter(item => item.name === userInfo))
-//     } else if(userInfo === 'Mickey') {
-//     console.log(userInfo)
-//     console.log(peopleData.filter(item => item.name === userInfo))
-//     } else if(userInfo === 'Woody') {
-//     console.log(userInfo)
-//     console.log(peopleData.filter(item => item.name === userInfo))
-//     } else if(userInfo === 'Betty') {
-//     console.log(userInfo)
-//     console.log(peopleData.filter(item => item.name === userInfo))
-//     };
-// }
 
 let userGuess = prompt.question('Who stole the cookie from the cookie jar?\n')
 
@@ -145,21 +114,3 @@ function oneGuess(userGuess) {
 }
 
 oneGuess();
-
-// for(var i = 0; i < selectionList.length; i++){
-  
-//     console.log(`${selectionList[i]}\n For more information on character press. \n Press enter to make your guess. \n`)
-//   };
-
-
-// 1. Intro "Who stole the cookies from the cookie jar" 
-// 2. who are the players?
-// 3. player details by menu.
-// 4. Make your guess.
-// 5. If guess does not == random person
-//      console.log("Who, me? Couldn't be. Then who? You lose. Play again?
-//
-//         or
-//
-//        where current random == to then who
-//          return (`It was ${} who stole the cookies from the cookie jar`)
