@@ -1,8 +1,29 @@
-# Who Stole the Cookies from the Cookie Jar
+# Cookies repl-game
 
-Command line game created with readline-sync.
+## Description
 
-## How to Play
+Who stole the cookies from the cookie jar?
 
-1. Clone the repo.
-2. ```yarn node index.js```
+## Set Up
+
+### Clone Repo
+
+```
+git clone git@github.com:christianmbonet/cookies-repl-game.git
+cd cookies-repl-game
+```
+
+### Install Yarn
+
+```
+yarn
+yarn add readline-sync
+```
+
+## To Play Game
+
+```
+node index.js
+```
+
+Enjoy!
